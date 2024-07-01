@@ -6,8 +6,8 @@
 - BEnvMgmt, Ecology | The University of New South Wales (Dec 2016)
 
 ### Work Experience
--**Adjunct Fellow** - UNSW Sydney, Evolution and Ecology Research Centre (May 2024 - *current*)
--**Graduate Research Assistant** - UWA, Centre for Environmental Economics and Policy (April 2024 - *current*)
+- **Adjunct Fellow** - UNSW Sydney, Evolution and Ecology Research Centre (May 2024 - *current*)
+- **Graduate Research Assistant** - UWA, Centre for Environmental Economics and Policy (April 2024 - *current*)
 
 ### Projects
 - **Evolution of Vertebrate Communication**
