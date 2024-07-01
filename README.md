@@ -41,56 +41,5 @@
 1. Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004, [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)
 
 +++
-
-<div class='altmetric-embed' data-badge-type='1' data-doi='10.1016/S0140-6736(11)61619-x'></div>
-
-
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="159165361"></div>
-
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/chemse/bjae004"></div>
-
-<html>
-  <style>
-    section {
-        background: white;
-        color: black;
-        border-radius: 1em;
-        padding: 1em;
-        left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-  </style>
-  <section>
-    <div id="inner">
-      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left"; 
-          class="__dimensions_badge_embed__" 
-          data-doi="10.1093/chemse/bjae004" 
-          data-hide-zero-citations="true" 
-          data-legend="always">
-        </span>
-      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right"; 
-          data-link-target="_blank" 
-          data-badge-details="right" 
-          data-badge-type="medium-donut"
-          data-doi="10.1093/chemse/bjae004"   
-          data-condensed="true" 
-          data-hide-no-mentions="true" 
-          class="altmetric-embed">
-        </div>
-    </div>
-    <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1093/chemse/bjae004" 
-          data-orientation="horizontal" 
-          class="plumx-summary" 
-          data-site="plum" 
-          data-hide-when-empty="true">
-        </a>
-    </div>
-  </section>
+{{< metrics >}}
 
