@@ -24,9 +24,24 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
+###########################
+# --- General options --- #
+###########################
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
+
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "https://benjjwalker.github.io/portfolio/"
+
+# Add the website title to the title of every page
+title-on-all-pages: true
+
 
 # Add a search button to the navbar
 post_search: true
