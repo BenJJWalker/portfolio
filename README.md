@@ -39,6 +39,7 @@
 
 ## Publications
 1. Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004, [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)
+doi = "10.1093/chemse/bjae004"
 
 +++
 {{< metrics >}}
