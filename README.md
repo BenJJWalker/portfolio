@@ -1,6 +1,6 @@
 # Evolutionary Ecologist
 
-### Technical Skills & Expertise: R-studio, Modelling, Macroevolution & Macroecology, Phylogenetics, Evolutionary Ecology, Bioacoustics
+#### Technical Skills & Expertise: R-studio, Modelling, Macroevolution & Macroecology, Phylogenetics, Evolutionary Ecology, Bioacoustics
 
 ### [Contact](mailto:bjjwalker1@gmail.com)
 
@@ -40,7 +40,8 @@
 ## Publications
 1. Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004, [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)
 
-- doi = "10.1093/chemse/bjae004"
+## Altmetric badge 
 
-{{< metrics >}}
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
