@@ -11,16 +11,15 @@
 
 ### Projects
 - **Evolution of Vertebrate Communication**
-![Dingo-Fieldwork](assets/img/kudu.png)
+![Kudu-Fieldwork](assets/img/kudu.png)
 
 - **Chemical Communication of Dingo Scents**
 
-Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004,
-[Publication](https://doi.org/10.1093/chemse/bjae004)
-
-[Altmetric](<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="159165361"></div>)
+## Publications
+1. Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004, [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004) [Altmetric]<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="159165361"></div>
 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/chemse/bjae004"></div>
 
-### Contact
-[Contact me](mailto:bjjwalker1@gmail.com)
+
+### [Contact](mailto:bjjwalker1@gmail.com)
+
