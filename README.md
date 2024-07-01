@@ -21,4 +21,4 @@ Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, 
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/chemse/bjae004"></div>
 
 ### Contact
-[Contact me:](mailto:bjjwalker1@gmail.com)
+[Contact me](mailto:bjjwalker1@gmail.com)
