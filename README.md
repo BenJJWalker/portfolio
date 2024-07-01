@@ -23,11 +23,11 @@
 
 ### Projects
 **Evolution of Vertebrate Communication**
-[![Kudu-Fieldwork](assets/img/leopard.png)](https://benjjwalker.github.io/portfolio/publication/Walker2024vertebrates)
+[![Kudu-Fieldwork](assets/img/leopard.png)](https://benjjwalker.github.io/portfolio/publication/Walker2024vertebrates/)
 
 
 **Chemical Communication of Dingo Scents**
-[![Dingo-Fieldwork](assets/img/dingo.png)](https://benjjwalker.github.io/portfolio/publication/Walker2024dingoes)
+[![Dingo-Fieldwork](assets/img/dingo.png)](https://benjjwalker.github.io/portfolio/publication/Walker2024dingoes/)
 
 
 ### Teaching at UNSW Sydney
