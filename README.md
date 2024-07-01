@@ -21,11 +21,11 @@
 
 ### Projects
 **Evolution of Vertebrate Communication**
-![Kudu-Fieldwork](assets/img/leopard.png)(https://benjjwalker.github.io/portfolio/publication/Walker2024vertebrates)
+[![Kudu-Fieldwork](assets/img/leopard.png)](https://benjjwalker.github.io/portfolio/publication/Walker2024vertebrates)
 
 
 **Chemical Communication of Dingo Scents**
-![Dingo-Fieldwork](assets/img/dingo.png)(https://benjjwalker.github.io/portfolio/publication/Walker2024dingoes)
+[![Dingo-Fieldwork](assets/img/dingo.png)](https://benjjwalker.github.io/portfolio/publication/Walker2024dingoes)
 
 
 ### Teaching at UNSW Sydney
@@ -39,6 +39,10 @@
 
 
 ## Publications
-1. Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004, [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004) <div data-badge-popover="right" data-badge-type="4" data-doi="10.1093/chemse/bjae004" data-hide-no-mentions="true" class="altmetric-embed"></div>
+1. Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004, [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)
+
+|                   |          | 
+| :---------------- | :------: | 
+| [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)    | <div data-badge-popover="right" data-badge-type="4" data-doi="10.1093/chemse/bjae004" data-hide-no-mentions="true" class="altmetric-embed"></div>|
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
