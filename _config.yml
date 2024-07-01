@@ -3,15 +3,3 @@ logo: /assets/img/work-photo_circle.png
 #description: [Contact me](mailto:bjjwalker1@gmail.com)
 #show_downloads: true
 theme: jekyll-theme-minimal
-
-showMiniToc: true
-
-featuredLinks:
-  gettingStarted:
-    - /publication/Walker2024dingoes/
-  startHere:
-    - /guides/example
-  popular:
-    - /path/to/popular/article1
-    - /path/to/popular/article2
-  popularHeading: An alternate heading to Popular
