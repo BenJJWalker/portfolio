@@ -1,52 +1,7 @@
 title: Ben JJ Walker
 logo: /assets/img/work-photo_circle.png
-#description: [Contact me](mailto:bjjwalker1@gmail.com)
+description: 
+
+[Contact me](mailto:bjjwalker1@gmail.com)
 #show_downloads: true
 theme: jekyll-theme-minimal
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://benjjwalker.github.io/portfolio/"
-
-# Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "bjjwalker1@gmail.com"
-  github: benjjwalker
-  twitter: benjjwalker
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-
-###########################
-# --- General options --- #
-###########################
-
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "https://benjjwalker.github.io/portfolio/"
-
-# Add the website title to the title of every page
-title-on-all-pages: true
-
-
-# Add a search button to the navbar
-post_search: true
-
-
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
-navbar-img: "/assets/img/banner.png"
