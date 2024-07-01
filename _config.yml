@@ -4,6 +4,8 @@ logo: /assets/img/work-photo_circle.png
 #show_downloads: true
 theme: jekyll-theme-minimal
 
+showMiniToc: true
+
 featuredLinks:
   gettingStarted:
     - /publication/Walker2024dingoes/
