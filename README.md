@@ -42,7 +42,7 @@
 
 +++
 
-{{< metrics >}}
+<div class='altmetric-embed' data-badge-type='1' data-doi='10.1016/S0140-6736(11)61619-x'></div>
 
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="159165361"></div>
