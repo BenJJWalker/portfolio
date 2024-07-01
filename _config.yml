@@ -45,3 +45,8 @@ title-on-all-pages: true
 
 # Add a search button to the navbar
 post_search: true
+
+
+# Alternatively, the navbar, footer, and page background can be set to an image
+# instead of colour
+navbar-img: "/assets/img/banner.png"
