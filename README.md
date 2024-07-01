@@ -5,9 +5,11 @@
 ## [Contact](mailto:bjjwalker1@gmail.com)
 
 ### Education
-- PhD, Biological Sciences | The University of New South Wales (2024)
-- BSc (Hons) - First Class Honours, Ecology | The University of New South Wales (2017)
-- BEnvMgmt, Ecology | The University of New South Wales (2016)
+
+| :---------------- | :------: | 
+| PhD, Biological Sciences | The University of New South Wales (2024) |
+| BSc (Hons) - First Class Honours, Ecology | The University of New South Wales (2017) |
+| BEnvMgmt, Ecology | The University of New South Wales (2016) |
 
 ### Work Experience
 **Adjunct Fellow** - UNSW Sydney, Evolution and Ecology Research Centre (2024 - *current*)
@@ -41,8 +43,7 @@
 ## Publications
 1. Benjamin J J Walker, Mike Letnic, Martin P Bucknall, Lyn Watson, Neil R Jordan, Male dingo urinary scents code for age class and wild dingoes respond to this information, Chemical Senses, Volume 49, 2024, bjae004, [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)
 
-|                   |          | 
 | :---------------- | :------: | 
-| [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)    | <div data-badge-popover="right" data-badge-type="4" data-doi="10.1093/chemse/bjae004" data-hide-no-mentions="true" class="altmetric-embed"></div>|
+| [10.1093/chemse/bjae004](https://doi.org/10.1093/chemse/bjae004)    | <div data-badge-popover="right" data-badge-type="4" data-doi="10.1093/chemse/bjae004" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> |
